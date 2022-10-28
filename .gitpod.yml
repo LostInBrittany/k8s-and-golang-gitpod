@@ -6,4 +6,4 @@ tasks:
 
 vscode:
   extensions:
-    - "redhat.java"
+    - "golang.go"

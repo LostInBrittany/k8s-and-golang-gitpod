@@ -3,7 +3,7 @@
 A working Gitpod setup to work with Kubernetes and Go. The workspace includes:
 
 - For Kubernetes: Kubectl, K9s, Helm, Velero & Kustomize.
-- For Go: Go
+- For Go: Go, Operator SDK
 
 To open the workspace, simply click on the *Open in Gitpod* button, or use [this link](https://gitpod.io/#https://github.com/LostInBrittany/k8s-and-golang-gitpod.git).
 
